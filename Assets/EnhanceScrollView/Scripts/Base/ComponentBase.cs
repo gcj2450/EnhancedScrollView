@@ -1,17 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
-///<summary>
-///<para>Copyright (C) 2021 北京华创智丰科技有限公司版权所有</para>
-/// <para>文 件 名： ComponentBase.cs</para>
-/// <para>文件功能： 基础交互组件</para>
-/// <para>开发部门： 软件部</para>
-/// <para>创 建 人： 高参军</para>
-/// <para>电子邮件： </para>
-/// <para>创建日期：2021-7-20</para>
-/// <para>修 改 人：</para>
-/// <para>修改日期：</para>
-/// <para>备    注：</para>
-/// </summary>
+
 public abstract class ComponentBase : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, 
     IPointerUpHandler,IPointerDownHandler,
                                     IPointerClickHandler,ISelectHandler,IDeselectHandler,IUpdateSelectedHandler, 
