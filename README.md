@@ -1,5 +1,5 @@
-Foked from https://github.com/tinyantstudio/EnhancedScrollView. modify it to support data load , reload datas and infinite scorll to loop show datas, 
-ĞŞ¸Ä×Ô https://github.com/tinyantstudio/EnhancedScrollView. Ö§³ÖÎŞÏŞÊı¾İ¼ÓÔØ£¬ÎŞÏŞ¹ö¶¯£¬·­µ½×îºóÒÔºó£¬´ÓÍ·¿ªÊ¼ÏÔÊ¾Êı¾İ¡£¿ÉÒÔ¶¯Ì¬ĞŞ¸ÄÊı¾İ¼¯£¬²¢ÏÔÊ¾£¬¿ÉÒÔÍÏ¶¯¿ìËÙ·­Ò³£¬Ò²¿ÉÒÔµ¥»÷°´Å¥£¬µ¥¸ö·­Ò³¡£Ïà±ÈÔ­À´µÄ¹¦ÄÜ£¬Ôö¼ÓÁË Êı¾İµÄÎŞÏŞ¼ÓÔØ¹¦ÄÜ¡£ĞŞ¸Ä¶¯»­ÇúÏß£¬¿ÉÒÔ¸Ä±äÒ³ÃæÅÅ°æ·½Ê½¡£
+Forked from https://github.com/tinyantstudio/EnhancedScrollView. modify it to support data load , reload datas and infinite scorll to loop show datas, 
+ä¿®æ”¹è‡ª https://github.com/tinyantstudio/EnhancedScrollView. æ”¯æŒæ— é™æ•°æ®åŠ è½½ï¼Œæ— é™æ»šåŠ¨ï¼Œç¿»åˆ°æœ€åä»¥åï¼Œä»å¤´å¼€å§‹æ˜¾ç¤ºæ•°æ®ã€‚å¯ä»¥åŠ¨æ€ä¿®æ”¹æ•°æ®é›†ï¼Œå¹¶æ˜¾ç¤ºï¼Œå¯ä»¥æ‹–åŠ¨å¿«é€Ÿç¿»é¡µï¼Œä¹Ÿå¯ä»¥å•å‡»æŒ‰é’®ï¼Œå•ä¸ªç¿»é¡µã€‚ç›¸æ¯”åŸæ¥çš„åŠŸèƒ½ï¼Œå¢åŠ äº† æ•°æ®çš„æ— é™åŠ è½½åŠŸèƒ½ã€‚ä¿®æ”¹åŠ¨ç”»æ›²çº¿ï¼Œå¯ä»¥æ”¹å˜é¡µé¢æ’ç‰ˆæ–¹å¼ã€‚
 
 <img alt="screenshot" src="https://github.com/gcj2450/EnhancedScrollView/blob/main/aaaa.png" width="50%" />
 <img alt="screenshot" src="https://github.com/gcj2450/EnhancedScrollView/blob/main/bbb.png" width="50%" />
